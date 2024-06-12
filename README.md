@@ -1,5 +1,6 @@
 # DESIGN-AND-FABRICATION-OF-AUTOMATION-MACHINE-CENTRE
 
+
 This project showcases advanced technologies to improve woodworking processes. It uses a combination of a conveyor belt system, flipping mechanism, CNC milling and laser stations, and a liquid polishing station, all designed in SolidWorks, manufactured with 3D printing, and controlled by Arduino.
 
 Here's how it works:
@@ -12,3 +13,5 @@ Here's how it works:
 6. Liquid Polishing Station: The workpiece is polished to achieve a smooth finish.
 
 By integrating SolidWorks design, 3D printing, and Arduino control, this project demonstrates the power of automation in enhancing manufacturing processes. It optimizes workflow, improves efficiency, and ensures high-quality results in woodworking.
+
+![image](https://github.com/GloomDev06/DESIGN-AND-FABRICATION-OF-AUTOMATION-MACHINE-CENTRE/assets/172371725/f4906aad-02ba-4927-960c-30ad7e84b8fb)
